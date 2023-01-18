@@ -1,0 +1,31 @@
+{
+    "name": "Bob",
+    "class": "Paladin",
+    "armor": 10,
+    "weapons": [
+        {
+            "name": "The Black Sword of Butter Spreading",
+            "strength": 10,
+            "speed": 10,
+            "action": "cut"
+        },
+        {
+            "name": "The Lance of Eternal Poking",
+            "strength": 20,
+            "speed": 3,
+            "action": "stab"
+        },
+        {
+            "name": "The Mace of Blood Born Infections",
+            "strength": 15,
+            "speed": 5,
+            "action": "strike"
+        }
+    ],
+    "attack": 10,
+    "defense": 10,
+    "courage": 10,
+    "inteligence": 10,
+    "charisma": 5,
+    "hitpoints": 10
+}

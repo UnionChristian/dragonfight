@@ -1,0 +1,10 @@
+{
+    "species": "Dragon",
+    "name": "Trogdor the Burninator",
+    "armor": 1000,
+    "flame": 1000,
+    "strength": 1000,
+    "defense": 1000,
+    "hitpoints": 1000,
+    "inteligence": 5
+}
